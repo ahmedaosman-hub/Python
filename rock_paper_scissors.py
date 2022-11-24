@@ -1,3 +1,7 @@
+# Rock, Paper, Scissors Game
+# Objective: Ask user "Rock, Paper, Scissors" and determine the results
+# Created on 11/14/2022 by Ahmed Osman
+
 import random
 
 #Set a tuple of our options
